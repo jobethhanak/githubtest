@@ -1,3 +1,3 @@
 # githubtest
 
-# conflict created
+# hello goodbye from the merge of master
